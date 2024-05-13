@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fotoFlix/static/css/main.545f0682.css",
+    "main.js": "/fotoFlix/static/js/main.c28c1288.js",
+    "index.html": "/fotoFlix/index.html",
+    "main.545f0682.css.map": "/fotoFlix/static/css/main.545f0682.css.map",
+    "main.c28c1288.js.map": "/fotoFlix/static/js/main.c28c1288.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.545f0682.css",
+    "static/js/main.c28c1288.js"
+  ]
+}
