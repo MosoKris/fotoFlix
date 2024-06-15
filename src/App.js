@@ -1,10 +1,10 @@
+import './App.css';
 import React from 'react';
+import Photos from './Components/Photos';
+import Favourites from './Components/Favourites';
 import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import { FaSearch } from 'react-icons/fa';
 import { useState } from 'react';
-import './App.css';
-import Photos from './Components/Photos';
-import Favourites from './Components/Favourites';
 
 function App() {
   const [searchQuery, setSearchQuery] = useState("");
